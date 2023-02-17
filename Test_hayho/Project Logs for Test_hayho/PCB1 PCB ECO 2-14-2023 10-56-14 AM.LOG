@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=*1(RTC_DS3231)
+Added Member To Class: ClassName=Sheet1 Member=Component *1 RTC DS3231
+Added Room: Name=Sheet1

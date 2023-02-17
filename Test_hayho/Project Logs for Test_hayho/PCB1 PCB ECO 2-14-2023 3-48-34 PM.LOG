@@ -1,0 +1,5 @@
+Added Component: Designator=*(RTC_DS3231)
+Added Component: Designator=U?(STM32F103C8T6)
+Added Component: Designator=U?(HC-05)
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

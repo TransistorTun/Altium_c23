@@ -1,0 +1,12 @@
+Added Component: Designator=U?(STM32F103C8T6)
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-2
+Added Pin To Net: NetName=NetU?_1 Pin=U?-9
+Added Net: Name=NetU?_1
+Added Member To Class: ClassName=Sheet1 Member=Component U? LCD
+Added Member To Class: ClassName=Sheet1 Member=Component U? module HC-05
+Added Member To Class: ClassName=Sheet1 Member=Component U? 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component U? LCD
+Added Member To Class: ClassName=Sheet1 Member=Component U? I2C community
+Added Member To Class: ClassName=Sheet1 Member=Component U? LED 7 - segment
+Added Room: Name=Sheet1

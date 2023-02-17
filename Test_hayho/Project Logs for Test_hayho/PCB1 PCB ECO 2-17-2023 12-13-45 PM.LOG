@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Sheet1 Member=*
+Change Component Footprint: Designator=U? Old Footprint=HC-05 New Footprint=74HC595
+Change Component Comment : Designator=U? Old Comment=module HC-05 New Comment=74HC595
+Added Room: Name=Sheet1

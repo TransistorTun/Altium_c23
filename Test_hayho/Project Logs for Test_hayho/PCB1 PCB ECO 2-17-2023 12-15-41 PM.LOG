@@ -1,0 +1,5 @@
+Added Component: Designator=U?(LCD 2004)
+Added Member To Class: ClassName=Sheet1 Member=Component U? 74HC595
+Added Member To Class: ClassName=Sheet1 Member=Component U? LCD
+Added Member To Class: ClassName=Sheet1 Member=Component U? LCD
+Added Room: Name=Sheet1

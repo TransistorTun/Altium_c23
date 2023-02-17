@@ -1,0 +1,6 @@
+Added Component: Designator=U?(LED 7 - segment)
+Added Member To Class: ClassName=Sheet1 Member=Component U? module HC-05
+Added Member To Class: ClassName=Sheet1 Member=Component U? LCD
+Added Member To Class: ClassName=Sheet1 Member=Component U? LCD
+Added Member To Class: ClassName=Sheet1 Member=Component U? 74HC595
+Added Room: Name=Sheet1
